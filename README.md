@@ -9,15 +9,16 @@
 
 ## Work Experience
 **Systems Engineer @ Tata Consultancy Services (TCS) (_Dec 2021 - Present_)**
-A detail oriented professional with total  3 years of experience as Junior AWS DevOps engineer.
-Managed AWS resources using Infrastructure as Code (IaC) with Terraform, Ansible, and AWS CLI, resulting in a reduction in deployment time by approximately 50%.
-Provided support to senior engineers by writing and utilizing Ansible playbooks to automate server configurations and patch updates, ensuring system reliability, security, and consistency across environments.
-Assisted senior engineers in projects, including Kubernetes, Jenkins, Docker.
-Assisted in troubleshooting and resolving issues related to CI/CD pipelines and other automation tools.
-Automated Build, Test and Deployments process with Jenkins-based CI/CD for Kubernetes clusters, Docker containerization and SonarQube code analysis which hepled in  maximizing efficiency, performance and security which helped in .
-Created and deployed Docker containers for testing and validating application configurations before deployment alongside another developer which helped in developer workflow, scalability.
-Utilized SonarQube in the CI/CD pipeline which Enhanced code quality.
-Monitored system health and performance by using Prometheus for metrics collection and Grafana for visualization.
+- A detail oriented professional with total  3 years of experience as Junior AWS DevOps engineer.
+- Managed AWS resources using Infrastructure as Code (IaC) with Terraform, Ansible, and AWS CLI, resulting in a reduction in deployment time by approximately 50%.
+- Provided support to senior engineers by writing and utilizing Ansible playbooks to automate server configurations and patch updates, ensuring system reliability, security, and consistency across environments.
+- Assisted senior engineers in projects, including Kubernetes, Jenkins, Docker.
+- Assisted in troubleshooting and resolving issues related to CI/CD pipelines and other automation tools.
+- Automated Build, Test and Deployments process with Jenkins-based CI/CD for Kubernetes clusters, Docker containerization and SonarQube code analysis which hepled in  maximizing efficiency, performance and 
+  security which helped in .
+- Created and deployed Docker containers for testing and validating application configurations before deployment alongside another developer which helped in developer workflow, scalability.
+- Utilized SonarQube in the CI/CD pipeline which Enhanced code quality.
+- Monitored system health and performance by using Prometheus for metrics collection and Grafana for visualization.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
